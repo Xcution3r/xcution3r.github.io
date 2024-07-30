@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
-<h1>My Name is Abdulrhman</h1>
+### My name is Abdulrhman Alzyadi, I am an aspiring Cybersecurity Specialist with a keen interest in Bug Bounty Hunting and Penetration Testing
+# Certifications
+* Hack The Box Certified Bug Bounty Hunter (CBBH)
+* Junior Penetration Tester (eJPTv2)
